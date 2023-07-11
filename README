@@ -1,13 +1,11 @@
 # Project Name
 > Bike Sharing prediction model using Linear regression.
 
-
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
+* [General Information]
+* [Technologies Used]
+* [Conclusions]
+* [Acknowledgements]
 
 ## General Information
 - A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short-term basis for a price or free.
@@ -22,18 +20,15 @@ They can accordingly manipulate the business strategy to meet the demand levels 
 Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 - What is the dataset that is being used?
 
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
+- The total no of bike rented gradually increases from spring to fall season and then decreases at winter season.
+- Total no of rented bikes increased significantly from 2018 to 2019.
+- Rented bike number declines if weather is not suitable, maximum no of bikes rented when weather is clear.
+- Bike rented number increases gradually from Jan to July, then becomes stable till sept, number declines from sept to Dec.
+- With the increase in temperature, bike rented number increases.
 
 ## Technologies Used
 - Python - version 3.0
-
 
 ## Acknowledgements
 - This project was based on [this tutorial](https://learn.upgrad.com).
